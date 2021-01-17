@@ -1,6 +1,5 @@
 python-telegram-bot
 pycricbuzz
-pprint
 requests
 json
 beautifulsoup4
